@@ -5,6 +5,7 @@ I'm a 16 old German who is interested in coding, especially in languages like Ja
 ### Contact 📨
 > Discord: `Protyo#0005`
 > Email: `protyo@kooje.eu`
+> Website: https://kooje.eu
 
 ### Stats
 [![Jedd0888's GitHub stats](https://github-readme-stats.vercel.app/api?username=protyodev&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
