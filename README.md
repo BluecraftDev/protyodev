@@ -4,8 +4,7 @@ I'm a 16 old German who is interested in coding, especially in languages like Ja
 
 ### Contact 📨
 > Discord: `Protyo#0005`
-> Email: `protyo@kooje.eu`
-
+> Email: `protyo@kooje.eu` <br>
 > Website: https://kooje.eu
 
 ### Stats
