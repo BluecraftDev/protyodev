@@ -3,7 +3,7 @@ My name is Protyo
 I'm a 16 old German who is interested in coding, especially in languages like JavaScript, and I am trying to learn HTML and CSS
 
 ### Contact 📨
-> Discord: `Protyo#0005`
+> Discord: `Protyo#0005` <br>
 > Email: `protyo@kooje.eu` <br>
 > Website: https://kooje.eu
 
