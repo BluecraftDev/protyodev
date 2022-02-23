@@ -1,8 +1,5 @@
-<p align='center'>
-  <b>Hi 👋, I'm Protyo</b><br>
-  <a href="https://kooje.eu">KooJe</a> |
-  <a href="https://twitter.com/Protyoderechte">Twitter</a>
-</p>
+> Discord: `Protyo#0005` \n
+> Email: `protyo@kooje.eu`
 
 <p align="center"><br>
   <a href="https://github.com/protyodev">
