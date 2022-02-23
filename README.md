@@ -8,9 +8,6 @@
 	</p>
 
 <p align="center">
-	<b>My Github Stats</b><br>
-    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=protyodev&theme=dark&hide_border=true">
-	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=protyodev&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
 	
 </p>
