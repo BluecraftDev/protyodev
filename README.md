@@ -1,6 +1,6 @@
 <p align="center">
-> Discord: `Protyo#0005` \n
-> Email: `protyo@kooje.eu`
+Discord: `Protyo#0005` \n
+Email: `protyo@kooje.eu`
 	</p>
 
 <p align="center"><br>
