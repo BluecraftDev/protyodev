@@ -1,5 +1,7 @@
+<p aligin="center">
 > Discord: `Protyo#0005` \n
 > Email: `protyo@kooje.eu`
+	</p>
 
 <p align="center"><br>
   <a href="https://github.com/protyodev">
