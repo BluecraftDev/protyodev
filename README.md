@@ -1,7 +1,6 @@
-<p align="center">
-Discord: `Protyo#0005` \n
-Email: `protyo@kooje.eu`
-	</p>
+### Contact 📨
+<img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="13"> | Discord: `Protyo#0005` <br>
+📨 | Email: `protyo@kooje.eu`
 
 <p align="center"><br>
   <a href="https://github.com/protyodev">
