@@ -1,4 +1,4 @@
-### Contact 📨
+### Hi, I'm Protyo 👋
 <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="13"> | Discord: `Protyo#0005` <br>
 📨 | Email: `protyo@kooje.eu`
 <p align="center">
