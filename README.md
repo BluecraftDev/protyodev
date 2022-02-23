@@ -1,4 +1,4 @@
-<p aligin="center">
+<p align="center">
 > Discord: `Protyo#0005` \n
 > Email: `protyo@kooje.eu`
 	</p>
