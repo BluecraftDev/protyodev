@@ -9,8 +9,6 @@
     <img src="https://lanyard.cnrad.dev/api/717416034478456925"/>
      </a>
 </p>
-
-<br><br>
 <p align="center">
 	<b>My Github Stats</b><br>
     	<img src="https://github-readme-streak-stats.herokuapp.com/?user=protyodev&theme=dark&hide_border=true">
