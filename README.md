@@ -14,8 +14,6 @@
 <a href="https://protyo.live">
 <img src="https://img.shields.io/badge/Personal-D14836?&logoColor=white&color=yellow"/>
 </a>
-<p><b>You can call me <a style="color: green" href="https://protyo.live">Protyo<a/> for short, I like to annoy people and watch netflix/amazon prime.</b></p>
-<br>
 <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vue,javascript,typescript,react,html,css,figma,graphql,nodejs,vscode,discord&theme=dark" />
 <br/>
 <br/>
